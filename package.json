@@ -1,0 +1,20 @@
+{
+  "name": "online-shop-like-ula",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virus-dev/online-shop-like-ula.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virus-dev/online-shop-like-ula/issues"
+  },
+  "homepage": "https://github.com/virus-dev/online-shop-like-ula#readme"
+}
