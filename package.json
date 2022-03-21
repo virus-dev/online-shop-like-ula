@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/virus-dev/online-shop-like-ula.git"
   },
+  "scripts": {
+    "start": "node server/index.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
